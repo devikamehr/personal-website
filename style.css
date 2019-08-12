@@ -1,0 +1,10 @@
+.intro .col-sm-4 {
+  height: 250px;
+  width: 250px;
+
+}
+
+.grid-container {
+  display: grid;
+  grid-gap: 50px;
+}
